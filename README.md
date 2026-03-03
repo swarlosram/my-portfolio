@@ -15,6 +15,8 @@ This is my first project as a beginner and I'm proud of it! I'm still learning e
 - Flexbox
 - CSS Grid
 - Responsive Design
+- Git & GitHub
+- JavaScript (learning)
 
 ## ✨ Features
 
